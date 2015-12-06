@@ -1,0 +1,19 @@
+{
+    "menu": {
+        "category": {
+            "name": "Seafood",
+            "chinese": "精美海鮮小菜",
+            "dishes": {
+                "dish": {
+                    "name": "Steamed Blue Cod",
+                    "chinese": "清蒸筍鳕鱼",
+                    "price": "Seasonal Price"
+                },
+                "dish": {
+                    "name": "Deep Fried Blue Cod",
+                    "chinese": "没蒸
+                }
+            }
+        }
+    }
+}

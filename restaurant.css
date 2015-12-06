@@ -1,6 +1,6 @@
 html, body {
     margin: 0;
-    background: url("img/background_pattern.jpg");
+    background: url("img/background_pattern.jpg") repeat;
 }
 .main-header {
     background: #e20e0e;
@@ -18,4 +18,26 @@ html, body {
     border-left: 1px solid gold;
     border-right: 1px solid gold;
     height: 100%;
+    background: #ffdddd;
+    bottom: 0;
+    padding-top: 7px;
+}
+.internal-div-body-adjustor {
+    position: relative;
+    width: 96%;
+    left: 2%;
+    background: inherit;
+}
+p, pre, span {
+    font-family: sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+.lunch-menu {
+    position: relative;
+    width: 90%;
+    left: 5%;
 }
