@@ -6,14 +6,125 @@
             "dishes": {
                 "dish": {
                     "name": "Steamed Blue Cod",
-                    "chinese": "清蒸筍鳕鱼",
-                    "price": "Seasonal Price"
+                    "chinese": "清蒸筍1魚",
+                    "price": -1
                 },
                 "dish": {
                     "name": "Deep Fried Blue Cod",
-                    "chinese": "没蒸
+                    "chinese": "浸蒸筍1魚",
+                    "price": 48.00
+                },
+                "dish": {
+                    "name": "Braised Blue Cod",
+                    "chinese": "红炆筍1魚",
+                    "price": 48.00
+                },
+                "dish": {
+                    "name": "Steamed Blue Cod with Chilli",
+                    "chinese": "剁椒筍1魚",
+                    "price": 48.00
+                },
+                "dish": {
+                    "name": "Blue Cod Two Course",
+                    "chinese": "筍1魚两食",
+                    "price": 52.00,
+                    "note": "(碧4炒球/豉汁蒸頭暔) Stir Fried with Veges/Steamed with Black Bean Sauce"
+                },
+                "dish": {
+                    "name": "Stir Fried Fish Fillet with Seasonal Veges",
+                    "chinese": "時菜炒魚球",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Fish Fillet with Sweet Corn",
+                    "chinese": "粟米魚塊",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Sweet & Sour Fish Fillet",
+                    "chinese": "咕咾魚塊",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Lemon Fish Fillet",
+                    "chinese": "西2魚塊",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Fish Fillet with Maggi Sauce",
+                    "chinese": "美極斑塊",
+                    "price": 38.00
+                },
+                "dish": {
+                    "name": "Stir-Fried Vegetables with Seafood",
+                    "chinese": "碧4小炒皇",
+                    "price": 35.00
+                },
+                "dish": {
+                    "name": "Maggi Prawn",
+                    "chinese": "美極焗大蝦",
+                    "price": 32.00
+                },
+                "dish": {
+                    "name": "Salt & Pepper Prawn",
+                    "chinese": "椒鹽焗大蝦",
+                    "price": 32.00
+                },
+                "dish": {
+                    "name": "Golden Prawn",
+                    "chinese": "金黄大蝦",
+                    "price": 32.00
+                },
+                "dish": {
+                    "name": "Oat Prawn",
+                    "chinese": "夌片大蝦",
+                    "price": 32.00
+                },
+                "dish": {
+                    "name": "Maggi Prawn Balls",
+                    "chinese": "美極大蝦球",
+                    "price": 32.00
+                },
+                "dish": {
+                    "name": "Crispy Prawn Ball",
+                    "chinese": "金絲大蝦球",
+                    "price": 38.00
+                },
+                "dish": {
+                    "name": "Prawn with Cashew Nuts",
+                    "chinese": "腰果大蝦球",
+                    "price": 32.00
+                },
+                "dish": {
+                    "name": "Steamed Prawn with Garlic",
+                    "chinese": "蒜茸蒸大蝦",
+                    "price": 32.00
+                },
+                "dish": {
+                    "name": "Steamed Clam with Garlic & Vermicelli",
+                    "chinese": "金银蒜粉絲蒸貴妃蚌",
+                    "price": -1
+                },
+                "dish": {
+                    "name": "Steamed Oyster with Garlic & Vermicelli",
+                    "chinese": "金银蒜粉絲蒸生蠔",
+                    "price": -1
+                },
+                "dish": {
+                    "name": "Squid with Salt & Pepper",
+                    "chinese": "椒鹽鮮魷",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Prawn Ball with Egg Yolk",
+                    "chinese": "金衣蝦丸",
+                    "price": 38.00
                 }
             }
+        },
+        "category": {
+            "name": "Sichuan Style",
+            "chinese": "川
         }
     }
 }
