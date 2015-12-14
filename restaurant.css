@@ -1,22 +1,25 @@
 html, body {
     margin: 0;
-    background: url("img/background_pattern.jpg") repeat;
+    background: url("img/background_pattern.jpg") repeat; /* temporary */
 }
 .main-header {
     background: #e20e0e;
-    width: 100%;
+    position: relative;
+    width: 66%;
     height: 20%;
+    left: 17%;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 20px;
     padding-bottom: 40px;
-    border-bottom: 1px solid gold;
+    border: 2px solid gold;
+    border-radius: 25px;
 }
 .main-body {
     position: relative;
-    width: 60%;
-    left: 20%;
-    border-left: 1px solid gold;
-    border-right: 1px solid gold;
+    width: 66%;
+    left: 17%;
+    border: 2px solid gold;
+    border-radius: 6px;
     height: 100%;
     background: #ffdddd;
     bottom: 0;

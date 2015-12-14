@@ -15,6 +15,9 @@ $(document).ready(function() {
                 if ($.get(data, "price") == -1) {
                     data = SEASONAL_PRICE_STRING;
                 }
+                if (ORDER_CHEAP_ITEMS_FIRST) {
+                    orderPrices(data);
+                }
             });
         }); 
         console.log(dishes);

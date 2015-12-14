@@ -124,7 +124,405 @@
         },
         "category": {
             "name": "Sichuan Style",
-            "chinese": "川
+            "chinese": "川味類",
+            "dishes": {
+                "dish": {
+                    "name": "Fried Pork in Sichuan Spice",
+                    "chinese": "四川回鍋肉",
+                    "price": 25.00
+                },
+                "dish": {
+                    "name": "Shredded Meat with Eggplant",
+                    "chinese": "魚香肉絲",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Chilli Chicken",
+                    "chinese": "麻辣子雞",
+                    "price": 25.00
+                },
+                "dish": {
+                    "name": "Chilli Beef",
+                    "chinese": "四川牛肉",
+                    "price": 22.00
+                },
+                "dish": {
+                    "name": "Kung Po Chicken",
+                    "chinese": "宫保雞丁",
+                    "price": 25.00
+                },
+                "dish": {
+                    "name": "Sichuan Fish",
+                    "chinese": "水煮魚片",
+                    "price": 30.00
+                },
+                "dish": {
+                    "name": "Sichuan Beef",
+                    "chinese": "水煮牛肉",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Cucumber Salad",
+                    "chinese": "拍黃瓜",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Chinese Fungus with Vinegar",
+                    "chinese": "香醋木耳",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Hot & Sour Shreeded Potato",
+                    "chinese": "酸辣土豆絲",
+                    "price": 12.00
+                }
+            }
+        },
+        "category": {
+            "name": "Deep Fried",
+            "chinese": "小食",
+            "dishes": {
+                "dish": {
+                    "name": "Deep Fried Won Ton",
+                    "chinese": "炸雲吞",
+                    "price": 8.00
+                },
+                "dish": {
+                    "name": "Deep Fried Spring Rolls",
+                    "chinese": "炸春卷",
+                    "price": 8.00
+                },
+                "dish": {
+                    "name": "Deep Fried Squids",
+                    "chinese": "炸魷魚",
+                    "price": 8.00
+                },
+                "dish": {
+                    "name": "Deep Fried Scallops",
+                    "chinese": "酥炸帶子",
+                    "price": 12.00
+                },
+                "dish": {
+                    "name": "Deep Fried Prawns",
+                    "chinese": "炸蝦球",
+                    "price": 12.00
+                },
+                "dish": {
+                    "name": "Platter Delight",
+                    "chinese": "炸拼盤",
+                    "price": 16.00
+                }
+            }
+        },
+        "category": {
+            "name": "Soup",
+            "chinese": "湯類",
+            "dishes": {
+                "dish": {
+                    "name": "Chicken Sweet Corn Soup",
+                    "chinese": "雞蓉粟米羹",
+                    "price": 12.00
+                },
+                "dish": {
+                    "name": "Crab Meat Sweet Corn Soup",
+                    "chinese": "蟹肉粟米羹",
+                    "price": 12.00
+                },
+                "dish": {
+                    "name": "Hot & Sour Soup",
+                    "chinese": "酸辣湯",
+                    "price": 12.00
+                },
+                "dish": {
+                    "name": "Combination Tofu Soup",
+                    "chinese": "七彩豆腐羹",
+                    "price": 12.00
+                },
+                "dish": {
+                    "name": "Beef Minced Tofu Soup",
+                    "chinese": "西湖豆腐牛肉羹",
+                    "price": 12.00
+                },
+                "dish": {
+                    "name": "Mushroom Duck Meat Soup",
+                    "chinese": "冬菇鴨絲羹",
+                    "price": 12.00
+                }
+            }
+        },
+        "category": {
+            "name": "Noodle Soup",
+            "chinese": "湯麵類",
+            "dishes": {
+                "dish": {
+                    "name": "Roasted Duck Noodle Soup",
+                    "chinese": "燒鴨湯麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "BBQ Pork Noodle Soup",
+                    "chinese": "叉燒湯麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Roasted Pork Noodle Soup",
+                    "chinese": "燒肉湯麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Combination Noodle Soup",
+                    "chinese": "什5湯麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Chicken & Mushroom Noodle Soup",
+                    "chinese": "北菇雞球湯麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Beef Brisket Noodle Soup",
+                    "chinese": "牛腩湯麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "BBQ Pork Stir Noodle",
+                    "chinese": "6蔥叉燒撈麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Roasted Pork Stir Noodle",
+                    "chinese": "燒肉撈麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Roasted Duck Stir Noodle",
+                    "chinese": "燒鴨撈麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Prawn Won Ton Soup",
+                    "chinese": "鮮蝦淨雲吞",
+                    "price": 14.80
+                },
+                "dish": {
+                    "name": "Prawn Won Ton Noodle Soup",
+                    "chinese": "鮮蝦雲吞麵",
+                    "price": 14.80
+                },
+                "dish": {
+                    "name": "Seafood Noodle Soup",
+                    "chinese": "海鮮湯麵",
+                    "price": 14.80
+                }
+            }
+        },
+        "category": {
+            "name": "BBQ Dish on Rice",
+            "chinese": "各式燒味飯",
+            "dishes": {
+                "dish": {
+                    "name": "Roasted Duck On Rice",
+                    "chinese": "燒鴨飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "BBQ Pork on Rice",
+                    "chinese": "叉燒飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Roasted Pork on Rice",
+                    "chinese": "燒肉飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Soya Chicken on Rice",
+                    "chinese": "油雞飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Combination (2) of BBQ or Roast on Rice",
+                    "chinese": "燒味雙拼飯",
+                    "price": 12.80
+                },
+                "dish": {
+                    "name": "Combination (3) of BBQ or Roast on Rice",
+                    "chinese": "燒味三拼飯",
+                    "price": 12.80
+                }
+            }
+        },
+        "category": {
+            "name": "On Rice",
+            "chinese": "燴飯類",
+            "dishes": {
+                "dish": {
+                    "name": "Braised Fish Fillet on Rice",
+                    "chinese": "紅燒斑腩飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Jee Jee Marinade Chicken on Rice",
+                    "chinese": "者者雞飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Combination Stir Rice & Veges",
+                    "chinese": "時菜什燴飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Beef/Chicken Stir Rice & Veges",
+                    "chinese": "時菜牛肉/雞飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Fish Stir Rice & Veges",
+                    "chinese": "時菜魚片飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "BBQ Pork/Pork Stir Rice & Veges",
+                    "chinese": "時菜叉燒/肉飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Beef & Tomato on Rice",
+                    "chinese": "鮮茄牛肉飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Black Pepper Chicken/Beef on Rice",
+                    "chinese": "黑椒雞球/牛飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Beef/Chicken & Egg Gravy on Rice",
+                    "chinese": "滑蛋牛肉/雞飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Roasted Pork & Bean Curd on Rice",
+                    "chinese": "豆腐火腩飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Curry Chicken on Rice",
+                    "chinese": "咖哩滑雞飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Beef Brisket on Rice",
+                    "chinese": "柱侯牛腩飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Ma Po Bean Curd on Rice",
+                    "chinese": "麻婆豆腐飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Chicken/Beef & Spring Onion on Rice",
+                    "chinese": "7蔥雞球/牛飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Sweet & Sour Pork/Chicken on Rice",
+                    "chinese": "咕咾肉雞飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Sweet & Sour Fish on Rice",
+                    "chinese": "咕咾魚飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Salted Fish & Eggplant on Rice",
+                    "chinese": "魚香茄子飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Salted Fish & Mince on Rice",
+                    "chinese": "魚香肉絲飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Kung Po Chicken on Rice",
+                    "chinese": "宫保雞球飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Cumin Beef/Chicken on Rice",
+                    "chinese": "孜然牛/雞球飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Seafood Stir Rice",
+                    "chinese": "海鮮燴飯",
+                    "price": 14.80
+                },
+                "dish": {
+                    "name": "Prawn & Egg Gravy on Rice",
+                    "chinese": "滑蛋蝦球飯",
+                    "price": 14.80
+                },
+                "dish": {
+                    "name": "Prawn Stir Rice & Veges",
+                    "chinese": "時菜蝦球飯",
+                    "price": 14.80
+                }
+            }
+        },
+        "category": {
+            "name": "Fried Rice",
+            "chinese": "炒飯類",
+            "dishes": {
+                "dish": {
+                    "name": "Young Chow Fried Rice",
+                    "chinese": "揚州炒飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Fujian Fried Rice",
+                    "chinese": "福建炒飯",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Salted Fish & Chicken Fried Rice",
+                    "chinese": "鹹魚雞粒炒飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Combination Fried Rice",
+                    "chinese": "什燴炒飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Special Fried Rice",
+                    "chinese": "特別炒飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Chicken Fried Rice",
+                    "chinese": "雞球炒飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Chicken with Pineapple Fried Rice",
+                    "chinese": "菠蘿雞炒飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Shreeded Duck Meat Fried Rice",
+                    "chinese": "鴨絲炒飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "BBQ Pork Fried Rice",
+                    "chinese": "叉燒炒飯",
+                    "price": 10.00
+                }
+            }
         }
     }
 }
