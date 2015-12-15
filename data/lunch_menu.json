@@ -271,7 +271,7 @@
                 },
                 "dish": {
                     "name": "Combination Noodle Soup",
-                    "chinese": "什5湯麵",
+                    "chinese": "什燴湯麵",
                     "price": 11.80
                 },
                 "dish": {
@@ -515,12 +515,316 @@
                 "dish": {
                     "name": "Shreeded Duck Meat Fried Rice",
                     "chinese": "鴨絲炒飯",
-                    "price": 10.00
+                    "price": 12.80
                 },
                 "dish": {
                     "name": "BBQ Pork Fried Rice",
                     "chinese": "叉燒炒飯",
                     "price": 10.00
+                },
+                "dish": {
+                    "name": "Roasted Pork with Shirmp Paste Fried Rice",
+                    "chinese": "蝦醬燒肉炒飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Indonesia Fried Rice",
+                    "chinese": "印尼炒飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Vegetarian Fried Rice",
+                    "chinese": "羅8齋炒飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Egg Fried Rice",
+                    "chinese": "雞蛋炒飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Mince Beef Fried Rice",
+                    "chinese": "生炒牛肉飯",
+                    "price": 10.00
+                },
+                "dish": {
+                    "name": "Fried Sticky Rice with Preserved Sausage",
+                    "chinese": "生炒糯米飯",
+                    "price": 14.80
+                },
+                "dish": {
+                    "name": "Prawn Fried Rice",
+                    "chinese": "蝦球炒飯",
+                    "price": 14.80
+                },
+                "dish": {
+                    "name": "Seafood Fried Rice",
+                    "chinese": "海鮮炒飯",
+                    "price": 14.80
+                }
+            }
+        },
+        "category": {
+            "name": "Fried Noodle",
+            "chinese": "炒麵/河/米粉類",
+            "dishes": {
+                "dish": {
+                    "name": "Shanghai Fried Thick Noodle",
+                    "chinese": "上海粗炒",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Fujian Fried Thick Noodle",
+                    "chinese": "福建粗炒",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Prawn Fried E-Foo Noodle",
+                    "chinese": "蝦球干燒伊麵",
+                    "price": 14.80
+                },
+                "dish": {
+                    "name": "Seafood Fried Noodle",
+                    "chinese": "海鮮炒麵",
+                    "price": 14.80
+                },
+                "dish": {
+                    "name": "Prawn Fried Noodle",
+                    "chinese": "蝦球炒麵",
+                    "price": 14.80
+                },
+                "dish": {
+                    "name": "Chicken Fried Noodle",
+                    "chinese": "雞球炒麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Combination Fried Noodle",
+                    "chinese": "什燴炒麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "BBQ Pork Fried Noodle",
+                    "chinese": "叉燒炒麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Vegetarian Fried Noodle",
+                    "chinese": "羅8齋炒麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Soya Sauce Fried Noodle",
+                    "chinese": "豉油皇炒麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Black Bean Sauce Beef Fried Noodle",
+                    "chinese": "豉椒牛肉炒麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Gravy Beef Fried Noodle",
+                    "chinese": "滑蛋牛肉炒麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Beef with Veges Fried Noodle",
+                    "chinese": "菜遠牛肉炒麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Pork with Veges Fried Noodle",
+                    "chinese": "菜遠肉片炒麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Shredded Pork Fried Noodle",
+                    "chinese": "肉絲炒麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Singapore Fried Vermicelli",
+                    "chinese": "星洲炒麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Xia-Men Fried Vermicelli",
+                    "chinese": "廈門炒麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Homemade Special Fried Vermicelli",
+                    "chinese": "家9炒麵",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Fried Vermicelli with Salted Cabbage & Shredded Pork",
+                    "chinese": "雪菜肉絲炆米",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Fried Vermicelli with Salted Cabbage & Shredded Duck",
+                    "chinese": "雪菜鴨絲炆米",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Chicken Fried Rice Noodle with Egg Gravy",
+                    "chinese": "滑蛋雞球河",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Chiu-Chow Fried Rice Noodle",
+                    "chinese": "潮式炒河",
+                    "price": 11.80
+                },
+                "dish": {
+                    "name": "Fried Rice Noodle",
+                    "chinese": "炒10刁",
+                    "price": 11.80
+                }
+            }
+        },
+        "category": {
+            "name": "Veges/Tofu/Vegetarian",
+            "chinese": "蔬菜/豆腐類素食",
+            "dishes": {
+                "dish": {
+                    "name": "Preserved Egg with Vegetables",
+                    "chinese": "金銀蛋浸時蔬",
+                    "price": -1
+                },
+                "dish": {
+                    "name": "Dry Fried Round Bean & Mince Meat",
+                    "chinese": "干燒四季豆",
+                    "price": 25.00
+                },
+                "dish": {
+                    "name": "Stir Fried Kai Lan",
+                    "chinese": "清炒芥蘭",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Stir Fried Choi Sum with Garlic",
+                    "chinese": "蒜茸菜心",
+                    "price": 25.00
+                },
+                "dish": {
+                    "name": "Stir Fried Mushroom with Vegetables",
+                    "chinese": "雙菇鮑汁時蔬",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Stir Fried Snow Pea with Garlic",
+                    "chinese": "蒜茸荷豆",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Braised Bean Curd",
+                    "chinese": "紅燒豆腐",
+                    "price": 22.00
+                },
+                "dish": {
+                    "name": "Ma Po Bean Curd",
+                    "chinese": "麻婆豆腐",
+                    "price": 22.00
+                },
+                "dish": {
+                    "name": "Salt & Pepper Bean Curd",
+                    "chinese": "椒鹽豆腐",
+                    "price": 22.00
+                },
+                "dish": {
+                    "name": "Secret Sauce Bean Curd",
+                    "chinese": "公開豆腐",
+                    "price": 22.00
+                },
+                "dish": {
+                    "name": "Vegetarian",
+                    "chinese": "羅8上素",
+                    "price": 32.00
+                }
+            }
+        },
+        "category": {
+            "name": "Congee",
+            "chinese": "粥類",
+            "dishes": {
+                "dish": {
+                    "name": "Seafood Congee",
+                    "chinese": "海鮮粥",
+                    "price": 10.90
+                },
+                "dish": {
+                    "name": "Pork & Preserved Egg Congee",
+                    "chinese": "皮蛋燒肉粥",
+                    "price": 9.00
+                },
+                "dish": {
+                    "name": "Fish & Preserved Egg Congee",
+                    "chinese": "魚片皮蛋粥",
+                    "price": 10.90
+                },
+                "dish": {
+                    "name": "Fish & Spring Onion Congee",
+                    "chinese": "7蔥魚片粥",
+                    "price": 9.00
+                },
+                "dish": {
+                    "name": "Chicken & Spring Onion Congee",
+                    "chinese": "7蔥滑雞粥",
+                    "price": 9.00
+                },
+                "dish": {
+                    "name": "Beef Congee",
+                    "chinese": "牛肉粥",
+                    "price": 9.00
+                },
+                "dish": {
+                    "name": "Prawn Congee",
+                    "chinese": "蝦球粥",
+                    "price": 10.90
+                },
+                "dish": {
+                    "name": "Plain Congee",
+                    "chinese": "白粥",
+                    "price": 3.00
+                }
+            }
+        },
+        "category": {
+            "name": "Dumplings",
+            "chinese": "手工餃子",
+            "dishes": {
+                "dish": {
+                    "name": "Pork & Veges Dumplings 12pcs",
+                    "chinese": "十二个豬肉白菜",
+                    "price": 12.80
+                },
+                "dish": {
+                    "name": "Beef & Veges Dumplings 12pcs",
+                    "chinese": "十二个牛肉白菜",
+                    "price": 12.80
+                },
+                "dish": {
+                    "name": "Vegetarian Dumplings 12pcs",
+                    "chinese": "十二个素菜餃子",
+                    "price": 12.80
+                },
+                "dish": {
+                    "name": "Pan-Fried Chives Dumplings 2pcs",
+                    "chinese": "两个韭菜盒子",
+                    "price": 6.00
+                }
+            }
+        },
+        "category": {
+            "name": "Stir Fried",
+            "chinese": "精美小炒",
+            "dishes": {
+                "dish": {
+                    "name": "Pork Spare Ribs in Peking Sauce",
+                    "chinese": "京都肉
                 }
             }
         }
