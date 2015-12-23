@@ -3,6 +3,9 @@ var ORDER_CHEAP_ITEMS_FIRST = true;
 var IGNORE_ITEM_GROUPS = false;
 var SEASONAL_PRICE_STRING = "Seasonal Price";
 
+var SEASONAL_PRICE_MARKER = -1;
+var CUSTOM_PRICE_STRING = -2;
+
 $(document).ready(function() {
     var test = [54, 34, 75, 23, 1, 86, 34, 24];
     console.log(test.sort(function(a, b) {return a - b;}));
@@ -24,6 +27,7 @@ $(document).ready(function() {
     });
 });
 
+// work in progress
 function orderPrices(data) {
     var ordered = [];
     var count = 0;

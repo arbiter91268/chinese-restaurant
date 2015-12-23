@@ -1,6 +1,7 @@
 html, body {
     margin: 0;
-    background: url("img/background_pattern.jpg") repeat; /* temporary */
+    background: url("img/better_background_image.png") repeat; /* temporary */
+    
 }
 .main-header {
     background: #e20e0e;

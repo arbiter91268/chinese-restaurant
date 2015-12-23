@@ -423,7 +423,7 @@
                 },
                 "dish": {
                     "name": "Chicken/Beef & Spring Onion on Rice",
-                    "chinese": "7蔥雞球/牛飯",
+                    "chinese": "薑蔥雞球/牛飯",
                     "price": 10.00
                 },
                 "dish": {
@@ -767,12 +767,12 @@
                 },
                 "dish": {
                     "name": "Fish & Spring Onion Congee",
-                    "chinese": "7蔥魚片粥",
+                    "chinese": "薑蔥魚片粥",
                     "price": 9.00
                 },
                 "dish": {
                     "name": "Chicken & Spring Onion Congee",
-                    "chinese": "7蔥滑雞粥",
+                    "chinese": "薑蔥滑雞粥",
                     "price": 9.00
                 },
                 "dish": {
@@ -824,7 +824,284 @@
             "dishes": {
                 "dish": {
                     "name": "Pork Spare Ribs in Peking Sauce",
-                    "chinese": "京都肉
+                    "chinese": "京都肉排",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Pork Spare Ribs in Zhen Jiang Style",
+                    "chinese": "鎮江肉排",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Pork Spare Ribs in Garlic",
+                    "chinese": "蒜香肉排",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Pork Spare Ribs in Plum Sauce",
+                    "chinese": "冰梅肉排",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Salt & Pepper Pork Spare Ribs",
+                    "chinese": "椒鹽肉排",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Pork with Round Bean in XO Sauce",
+                    "chinese": "XO醬四季豆炒肉片",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Kai Lan with Preserved Meat",
+                    "chinese": "芥蘭炒臘味",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Chicken with Cashew Nuts",
+                    "chinese": "腰果雞球",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Chicken with Seasonal Vegetable",
+                    "chinese": "時菜雞球",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Sweet & Sour Chicken",
+                    "chinese": "香蘿咕咾雞",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Lemon Chicken",
+                    "chinese": "西2雞",
+                    "price": 25.00
+                },
+                "dish": {
+                    "name": "Fried Shredded Beef with Veges",
+                    "chinese": "干燒牛柳絲",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Beef with Vegetable",
+                    "chinese": "時菜牛肉",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Beef with Black Bean Sauce",
+                    "chinese": "豉椒牛肉",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Satay Beef with Kai Lan",
+                    "chinese": "沙爹芥蘭炒牛肉",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Beef with Preserved Veges in Black Bean Sauce",
+                    "chinese": "味菜豉汁牛肉",
+                    "price": 28.00
+                }
+            }
+        },
+        "category": {
+            "name": "Sizzling",
+            "chinese": "鐵板類",
+            "dishes": {
+                "dish": {
+                    "name": "Sizzling Black Pepper Chicken",
+                    "chinese": "黑椒雞柳",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Sizzling Chicken",
+                    "chinese": "薑蔥雞",
+                    "price": 25.00
+                },
+                "dish": {
+                    "name": "Sizzling Satay Chicken",
+                    "chinese": "沙爹雞",
+                    "price": 25.00
+                },
+                "dish": {
+                    "name": "Sizzling Braised Chicken",
+                    "chinese": "啫啫雞",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Sizzling Black Pepper Steak",
+                    "chinese": "黑椒牛柳",
+                    "price": 32.00
+                },
+                "dish": {
+                    "name": "Sizzling Oriental Steak",
+                    "chinese": "中式牛柳",
+                    "price": 32.00
+                },
+                "dish": {
+                    "name": "Sizzling Beef with Ginger and Spring Onion",
+                    "chinese": "薑蔥牛肉",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Sizzling Black Pepper Lamb Rack",
+                    "chinese": "黑椒羊仔骨",
+                    "price": 35.00
+                },
+                "dish": {
+                    "name": "Sizzling Squid with Ginger and Spring Onion",
+                    "chinese": "薑蔥鮮魷",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Sizzling Seafood",
+                    "chinese": "海皇鮮",
+                    "price": 35.00
+                }
+            }
+        },
+        "category": {
+            "name": "Casserole",
+            "chinese": "煲仔類",
+            "dishes": {
+                "dish": {
+                    "name": "Seafood & Bean Curd",
+                    "chinese": "海鮮豆腐煲",
+                    "price": 32.00
+                },
+                "dish": {
+                    "name": "Combination Meat & Bean Curd",
+                    "chinese": "入珍豆腐煲",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Fillet Fish & Bean Curd",
+                    "chinese": "豆腐斑腩煲",
+                    "price": 32.00
+                },
+                "dish": {
+                    "name": "Roasted Pork & Bean Curd",
+                    "chinese": "豆腐火腩煲",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Salted Fish & Eggplant",
+                    "chinese": "魚香茄子煲",
+                    "price": 25.00
+                },
+                "dish": {
+                    "name": "Salted Fish, Chicken & Bean Curd",
+                    "chinese": "鹹魚雞粒豆腐煲",
+                    "price": 25.00
+                },
+                "dish": {
+                    "name": "Prawn with Vermicelli in XO Sauce",
+                    "chinese": "XO醬粉絲大蝦煲",
+                    "price": 38.00
+                },
+                "dish": {
+                    "name": "Taro & Pumpkin in Coconut Sauce",
+                    "chinese": "椰汁香芋南瓜煲",
+                    "price": 25.00
+                },
+                "dish": {
+                    "name": "Taro & Preserved Meat in Coconut Sauce",
+                    "chinese": "椰汁香芋臘味煲",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Satay Beef with Vermicelli",
+                    "chinese": "沙茶牛肉粉絲煲",
+                    "price": 25.00
+                },
+                "dish": {
+                    "name": "Beef Brisket with Turnip",
+                    "chinese": "蘿蔔牛腩煲",
+                    "price": 25.00
+                },
+                "dish": {
+                    "name": "Shrimp, Mixed Veges & Vermicelli",
+                    "chinese": "蝦米冬菇什菜煲",
+                    "price": 32.00
+                },
+                "dish": {
+                    "name": "Thai Style Seafood",
+                    "chinese": "泰式海皇煲",
+                    "price": 35.00
+                },
+                "dish": {
+                    "name": "Lamb Brisket Casserole",
+                    "chinese": "枝竹羊腩煲",
+                    "price": 32.00
+                },
+                "dish": {
+                    "name": "Pork with Preserved Cabbage",
+                    "chinese": "梅菜扣肉煲",
+                    "price": 28.00
+                }
+            }
+        },
+        "category": {
+            "name": "BBQ Dish",
+            "chinese": "明爐燒味",
+            "dishes": {
+                "dish": {
+                    "name": "Roasted Duck",
+                    "chinese": "明爐燒鴨",
+                    "price": -2,
+                    "special_price": "半隻$23/一隻$45"
+                },
+                "dish": {
+                    "name": "Peking Duck",
+                    "chinese": "片皮大鴨",
+                    "price": -2,
+                    "special_price": "两食 $55"
+                },
+                "dish": {
+                    "name": "Roasted Pork",
+                    "chinese": "脆皮燒肉",
+                    "price": -2,
+                    "special_price": "例 $25"
+                },
+                "dish": {
+                    "name": "BBQ Pork",
+                    "chinese": "11汁叉燒",
+                    "price": -2,
+                    "special_price": "例 $25"
+                },
+                "dish": {
+                    "name": "Combination (2) of BBQ or Roast",
+                    "chinese": "燒味雙拼",
+                    "price": 28.00
+                },
+                "dish": {
+                    "name": "Combination (3) of BBQ or Roast",
+                    "chinese": "燒味三拼",
+                    "price": 32.00
+                },
+                "dish": {
+                    "name": "Steamed Chicken",
+                    "chinese": "貴妃走地雞",
+                    "price": -2,
+                    "special_price": "半$25/一隻$48"
+                },
+                "dish": {
+                    "name": "Chicken with Ginger Powder",
+                    "chinese": "沙薑走地雞",
+                    "price": -2,
+                    "special_price": "半$25/一隻$48"
+                },
+                "dish": {
+                    "name": "Soya Sauce Chicken",
+                    "chinese": "玫瑰豉油雞",
+                    "price": -2,
+                    "special_price": "半$14/一隻$28"
+                },
+                "dish": {
+                    "name": "Marinade Duck",
+                    "chinese": "潮州12水鴨",
+                    "price": -2,
+                    "special_price": "半$25/一隻$48"
                 }
             }
         }
